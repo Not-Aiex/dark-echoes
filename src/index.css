@@ -1,0 +1,22 @@
+li {
+  background-color: gray;
+}
+
+li:hover {
+  background-color: teal;
+}
+
+.title {
+  background-color: #8b0000;
+}
+
+.episode {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-weight: bold;
+}
+
+main {
+  background-color: black;
+  color: white;
+}
